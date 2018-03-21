@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "d:\\Documents\\#PROGRAMOWANIE\\dotNET\\dotNETExercises\\zadanie1\\zadanie1.csproj",
+      "projectUniqueName": "D:\\Documents\\#PROGRAMOWANIE\\dotNET\\dotNETExercises\\zadanie1\\zadanie1.csproj",
       "projectName": "zadanie1",
-      "projectPath": "d:\\Documents\\#PROGRAMOWANIE\\dotNET\\dotNETExercises\\zadanie1\\zadanie1.csproj",
+      "projectPath": "D:\\Documents\\#PROGRAMOWANIE\\dotNET\\dotNETExercises\\zadanie1\\zadanie1.csproj",
       "packagesPath": "C:\\Users\\slawek\\.nuget\\packages\\",
-      "outputPath": "d:\\Documents\\#PROGRAMOWANIE\\dotNET\\dotNETExercises\\zadanie1\\obj\\",
+      "outputPath": "D:\\Documents\\#PROGRAMOWANIE\\dotNET\\dotNETExercises\\zadanie1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

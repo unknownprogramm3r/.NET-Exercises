@@ -13,3 +13,8 @@ D:\Documents\#PROGRAMOWANIE\dotNET\.NETExercises\zadanie1\obj\Debug\netcoreapp2.
 D:\Documents\#PROGRAMOWANIE\dotNET\.NETExercises\zadanie1\obj\Debug\netcoreapp2.0\zadanie1.AssemblyInfo.cs
 D:\Documents\#PROGRAMOWANIE\dotNET\.NETExercises\zadanie1\obj\Debug\netcoreapp2.0\zadanie1.dll
 D:\Documents\#PROGRAMOWANIE\dotNET\.NETExercises\zadanie1\obj\Debug\netcoreapp2.0\zadanie1.pdb
+D:\Documents\#PROGRAMOWANIE\dotNET\dotNETExercises\zadanie1\obj\Debug\netcoreapp2.0\zadanie1.csproj.CoreCompileInputs.cache
+D:\Documents\#PROGRAMOWANIE\dotNET\dotNETExercises\zadanie1\obj\Debug\netcoreapp2.0\zadanie1.AssemblyInfoInputs.cache
+D:\Documents\#PROGRAMOWANIE\dotNET\dotNETExercises\zadanie1\obj\Debug\netcoreapp2.0\zadanie1.AssemblyInfo.cs
+D:\Documents\#PROGRAMOWANIE\dotNET\dotNETExercises\zadanie1\obj\Debug\netcoreapp2.0\zadanie1.dll
+D:\Documents\#PROGRAMOWANIE\dotNET\dotNETExercises\zadanie1\obj\Debug\netcoreapp2.0\zadanie1.pdb
