@@ -18,3 +18,8 @@ D:\Documents\#PROGRAMOWANIE\dotNET\dotNETExercises\zadanie1\obj\Debug\netcoreapp
 D:\Documents\#PROGRAMOWANIE\dotNET\dotNETExercises\zadanie1\obj\Debug\netcoreapp2.0\zadanie1.AssemblyInfo.cs
 D:\Documents\#PROGRAMOWANIE\dotNET\dotNETExercises\zadanie1\obj\Debug\netcoreapp2.0\zadanie1.dll
 D:\Documents\#PROGRAMOWANIE\dotNET\dotNETExercises\zadanie1\obj\Debug\netcoreapp2.0\zadanie1.pdb
+D:\Documents\#PROGRAMOWANIE\dotNET\dotNETExercises\zadanie1\bin\Debug\netcoreapp2.0\zadanie1.deps.json
+D:\Documents\#PROGRAMOWANIE\dotNET\dotNETExercises\zadanie1\bin\Debug\netcoreapp2.0\zadanie1.runtimeconfig.json
+D:\Documents\#PROGRAMOWANIE\dotNET\dotNETExercises\zadanie1\bin\Debug\netcoreapp2.0\zadanie1.runtimeconfig.dev.json
+D:\Documents\#PROGRAMOWANIE\dotNET\dotNETExercises\zadanie1\bin\Debug\netcoreapp2.0\zadanie1.dll
+D:\Documents\#PROGRAMOWANIE\dotNET\dotNETExercises\zadanie1\bin\Debug\netcoreapp2.0\zadanie1.pdb

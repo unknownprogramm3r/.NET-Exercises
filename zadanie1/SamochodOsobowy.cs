@@ -1,3 +1,4 @@
+using System;
 public class SamochodOsobowy : Samochod {
 
     private string kolor;
