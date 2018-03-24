@@ -9,17 +9,14 @@ namespace zadanie1
         {
 
             Samochod s = new SamochodOsobowy("Czerwony", 1.4, "Opel");
-            s.wypiszPojemnoscSilnika();
-
             Samochod c = new SamochodCiezarowy("Bialy", 4.5, "DAF");
-            c.wypiszPojemnoscSilnika();
-
+            
             ArrayList samochodyAL = new ArrayList();
             samochodyAL.Add(s);
             samochodyAL.Add(c);
 
-            foreach ( Object obj in samochodyAL ) {
-                Console.WriteLine(obj);
+            foreach ( Object i in samochodyAL ) {
+                Console.WriteLine(i);
             }       
         }
     }
