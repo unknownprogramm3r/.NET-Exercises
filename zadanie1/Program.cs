@@ -11,12 +11,17 @@ namespace zadanie1
             Samochod s = new SamochodOsobowy("Czerwony", 1.4, "Opel");
             Samochod c = new SamochodCiezarowy("Bialy", 4.5, "DAF");
             
-            ArrayList samochodyAL = new ArrayList();
-            samochodyAL.Add(s);
-            samochodyAL.Add(c);
+            //ArrayList samochodyAL = new ArrayList();
+            
+            var cars = new List<Samochod>();
+            cars.Add(s);
+            cars.Add(c);
 
-            foreach ( Object i in samochodyAL ) {
-                Console.WriteLine(i);
+            foreach ( var item in cars ) {
+                //Console.WriteLine(Samochod.wypiszKolor(i));
+                item.wypiszKolor();
+                item.wypiszPojemnoscSilnika();
+                item.wypiszwypiszMarka();
             }       
         }
     }
