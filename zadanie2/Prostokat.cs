@@ -1,32 +1,25 @@
 using System;
 
-public class Kolo : Figura {
+public class Prostokat : Figura {
 
-    public readonly double pi = 3.14;
-    public double promien {get; set;} 
+    public double bokA {get; set;}
+    public double bokB {get; set;} 
     
     // Przeciążenie metod z klasy abstrakcyjnej Figura
 
     override public double obliczPole(){
-        double pole = pi * Math.Sqrt(promien);
+        double pole = bokA * bokB;
         return pole;
     }
 
     override public double obliczObwod(){
-        double obwod = 2 * pi * promien;
+        double obwod = 2 * bokA + 2 * bokB;
         return obwod;
     }
 
-    override public void wypiszPole(){
-        Console.WriteLine(pole);
-    }
-
-    override public void wypiszObwod(){
-        Console.WriteLine(obwod);
-    } 
 
     // konstruktor :
-    public Kolo(){
+    public Prostokat(){
 
     }
 

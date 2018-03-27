@@ -6,17 +6,24 @@ namespace zadanie2
     {
         static void Main(string[] args)
         {
-            // var kolo = new Kolo{
-            //     promien = 3
-            // };
-            //koloData.promien = 3;
+            // KOLO
 
             Kolo kolo = new Kolo();
             kolo.promien = 3;
-            // kolo.obliczPole();
-            // kolo.wypiszPole();
-
+           
             Console.WriteLine(kolo.obliczPole());
+            Console.WriteLine(kolo.obliczObwod());
+
+            // PROSTOKAT
+
+            Prostokat prostokat = new Prostokat();
+            prostokat.bokA = 20;
+            prostokat.bokB = 23;
+
+            Console.WriteLine(prostokat.obliczPole());
+            Console.WriteLine(prostokat.obliczObwod());
+
+
 
             
         }

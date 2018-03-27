@@ -17,13 +17,6 @@ public class Kolo : Figura {
         return obwod;
     }
 
-    override public void wypiszPole(){
-        Console.WriteLine(pole);
-    }
-
-    override public void wypiszObwod(){
-        Console.WriteLine(obwod);
-    } 
 
     // konstruktor :
     public Kolo(){
