@@ -13,8 +13,10 @@ namespace zadanie2
 
             Kolo kolo = new Kolo();
             kolo.promien = 3;
-            kolo.obliczPole();
-            kolo.wypiszPole();
+            // kolo.obliczPole();
+            // kolo.wypiszPole();
+
+            Console.WriteLine(kolo.obliczPole());
 
             
         }
