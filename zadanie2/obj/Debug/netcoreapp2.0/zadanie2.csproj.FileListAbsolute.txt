@@ -1,0 +1,10 @@
+D:\Documents\#PROGRAMOWANIE\dotNET\dotNETExercises\zadanie2\obj\Debug\netcoreapp2.0\zadanie2.csproj.CoreCompileInputs.cache
+D:\Documents\#PROGRAMOWANIE\dotNET\dotNETExercises\zadanie2\obj\Debug\netcoreapp2.0\zadanie2.AssemblyInfoInputs.cache
+D:\Documents\#PROGRAMOWANIE\dotNET\dotNETExercises\zadanie2\obj\Debug\netcoreapp2.0\zadanie2.AssemblyInfo.cs
+D:\Documents\#PROGRAMOWANIE\dotNET\dotNETExercises\zadanie2\bin\Debug\netcoreapp2.0\zadanie2.deps.json
+D:\Documents\#PROGRAMOWANIE\dotNET\dotNETExercises\zadanie2\bin\Debug\netcoreapp2.0\zadanie2.runtimeconfig.json
+D:\Documents\#PROGRAMOWANIE\dotNET\dotNETExercises\zadanie2\bin\Debug\netcoreapp2.0\zadanie2.runtimeconfig.dev.json
+D:\Documents\#PROGRAMOWANIE\dotNET\dotNETExercises\zadanie2\bin\Debug\netcoreapp2.0\zadanie2.dll
+D:\Documents\#PROGRAMOWANIE\dotNET\dotNETExercises\zadanie2\bin\Debug\netcoreapp2.0\zadanie2.pdb
+D:\Documents\#PROGRAMOWANIE\dotNET\dotNETExercises\zadanie2\obj\Debug\netcoreapp2.0\zadanie2.dll
+D:\Documents\#PROGRAMOWANIE\dotNET\dotNETExercises\zadanie2\obj\Debug\netcoreapp2.0\zadanie2.pdb
