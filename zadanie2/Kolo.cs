@@ -8,7 +8,7 @@ public class Kolo : Figura {
     // Przeciążenie metod z klasy abstrakcyjnej Figura
 
     override public double obliczPole(){
-        double pole = pi * Math.Sqrt(promien);
+        double pole = pi * Math.Pow(promien, 2);
         return pole;
     }
 
